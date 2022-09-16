@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="299" height="400" viewBox="0 0 299 400">
+  <defs>
+    <clipPath id="clip-Artboard_3">
+      <rect width="299" height="400"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_3" data-name="Artboard – 3" clip-path="url(#clip-Artboard_3)">
+    <rect width="299" height="400" fill="#fff"/>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="299" height="400" fill="#fff"/>
+    <g id="Group_1" data-name="Group 1" transform="translate(-2)">
+      <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(31 34)" fill="#fff" stroke="#ee4123" stroke-width="1">
+        <rect width="241" height="326" stroke="none"/>
+        <rect x="0.5" y="0.5" width="240" height="325" fill="none"/>
+      </g>
+      <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(31 248)" fill="#fff" stroke="#ee4123" stroke-width="1">
+        <rect width="241" height="113" stroke="none"/>
+        <rect x="0.5" y="0.5" width="240" height="112" fill="none"/>
+      </g>
+      <text id="Stakeholders_Interviews" data-name="Stakeholders
+Interviews" transform="translate(150 298)" fill="#171717" font-size="26" font-family="Roboto-Regular, Roboto"><tspan x="-75.429" y="0">Stakeholders</tspan><tspan fill="#ee4123" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-61.299" y="34">Interviews</tspan></tspan></text>
+    </g>
+    <g id="interview" transform="translate(102 95)">
+      <g id="Group_2" data-name="Group 2">
+        <path id="Path_37" data-name="Path 37" d="M16.252,32.5A10.252,10.252,0,1,0,6,22.252,10.262,10.262,0,0,0,16.252,32.5Zm0-17.087a6.835,6.835,0,1,1-6.835,6.835A6.842,6.842,0,0,1,16.252,15.417Z" transform="translate(4.252 8.504)"/>
+        <path id="Path_38" data-name="Path 38" d="M48.252,32.5A10.252,10.252,0,1,0,38,22.252,10.262,10.262,0,0,0,48.252,32.5Zm0-17.087a6.835,6.835,0,1,1-6.835,6.835A6.842,6.842,0,0,1,48.252,15.417Z" transform="translate(26.93 8.504)"/>
+        <path id="Path_39" data-name="Path 39" d="M92.269,26V48.213a5.132,5.132,0,0,1-5.126,5.126v-18.8A8.553,8.553,0,0,0,78.6,26H70.056a1.709,1.709,0,0,0-1.709,1.709V37.961H54.678a1.709,1.709,0,0,0-1.709,1.709V44.8H42.717V39.669a1.709,1.709,0,0,0-1.709-1.709H27.339V27.709A1.709,1.709,0,0,0,25.63,26H17.087a8.553,8.553,0,0,0-8.543,8.543v18.8a5.132,5.132,0,0,1-5.126-5.126V26H0V48.213a8.548,8.548,0,0,0,5.126,7.819V77.26H8.543v-20.5H25.63v18.8a1.709,1.709,0,0,0,1.709,1.709h8.543V48.213H59.8V77.26h8.543a1.709,1.709,0,0,0,1.709-1.709v-18.8H87.143v20.5H90.56V56.032a8.548,8.548,0,0,0,5.126-7.819V26Zm-58.1,18.8H20.5V34.543H17.087V46.5A1.709,1.709,0,0,0,18.8,48.213H30.756a1.711,1.711,0,0,1,1.709,1.709V73.843H29.048v-18.8a1.709,1.709,0,0,0-1.709-1.709H11.961v-18.8a5.132,5.132,0,0,1,5.126-5.126h6.835V39.669a1.709,1.709,0,0,0,1.709,1.709H39.3V44.8Zm34.174,8.543a1.709,1.709,0,0,0-1.709,1.709v18.8H63.221V49.921a1.711,1.711,0,0,1,1.709-1.709H76.89A1.709,1.709,0,0,0,78.6,46.5V34.543H75.182V44.8h-18.8V41.378H70.056a1.709,1.709,0,0,0,1.709-1.709V29.417H78.6a5.132,5.132,0,0,1,5.126,5.126v18.8Z" transform="translate(0 18.426)"/>
+        <path id="Path_40" data-name="Path 40" d="M21.126,17.087v5.126a1.709,1.709,0,0,0,1.169,1.622,1.741,1.741,0,0,0,.54.087,1.712,1.712,0,0,0,1.367-.683l4.613-6.151H41.63a5.132,5.132,0,0,0,5.126-5.126V5.126A5.132,5.132,0,0,0,41.63,0h-20.5A5.132,5.132,0,0,0,16,5.126v6.835A5.132,5.132,0,0,0,21.126,17.087ZM19.417,5.126a1.711,1.711,0,0,1,1.709-1.709h20.5a1.711,1.711,0,0,1,1.709,1.709v6.835a1.711,1.711,0,0,1-1.709,1.709H27.961a1.707,1.707,0,0,0-1.367.683l-2.05,2.734V15.378a1.709,1.709,0,0,0-1.709-1.709H21.126a1.711,1.711,0,0,1-1.709-1.709Z" transform="translate(11.339)"/>
+        <rect id="Rectangle_4" data-name="Rectangle 4" width="17.087" height="3.417" transform="translate(34.174 6.835)"/>
+        <rect id="Rectangle_5" data-name="Rectangle 5" width="10.252" height="3.417" transform="translate(46.134 42.717)"/>
+        <path id="Path_41" data-name="Path 41" d="M28.126,21A5.132,5.132,0,0,0,23,26.126v6.835a5.132,5.132,0,0,0,5.126,5.126H41.8a5.132,5.132,0,0,0,5.126-5.126V31.77l3.13-4.7a1.709,1.709,0,0,0-1.422-2.657h-2A5.136,5.136,0,0,0,41.8,21ZM43.5,26.126a1.709,1.709,0,0,0,1.709,1.709h.224L43.791,30.3a1.718,1.718,0,0,0-.287.948v1.709A1.711,1.711,0,0,1,41.8,34.669H28.126a1.711,1.711,0,0,1-1.709-1.709V26.126a1.711,1.711,0,0,1,1.709-1.709H41.8A1.711,1.711,0,0,1,43.5,26.126Z" transform="translate(16.3 14.882)"/>
+        <rect id="Rectangle_6" data-name="Rectangle 6" width="3.417" height="3.417" transform="translate(39.3 27.339)"/>
+        <rect id="Rectangle_7" data-name="Rectangle 7" width="3.417" height="3.417" transform="translate(46.134 27.339)"/>
+        <rect id="Rectangle_8" data-name="Rectangle 8" width="3.417" height="3.417" transform="translate(52.969 27.339)"/>
+      </g>
+    </g>
+  </g>
+</svg>

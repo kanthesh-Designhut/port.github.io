@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="299" height="400" viewBox="0 0 299 400">
+  <defs>
+    <clipPath id="clip-Artboard_1">
+      <rect width="299" height="400"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard – 1" clip-path="url(#clip-Artboard_1)">
+    <rect width="299" height="400" fill="#fff"/>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="299" height="400" fill="#fff"/>
+    <g id="Group_1" data-name="Group 1" transform="translate(-2)">
+      <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(31 34)" fill="#fff" stroke="#ee4123" stroke-width="1">
+        <rect width="241" height="326" stroke="none"/>
+        <rect x="0.5" y="0.5" width="240" height="325" fill="none"/>
+      </g>
+      <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(31 248)" fill="#fff" stroke="#ee4123" stroke-width="1">
+        <rect width="241" height="113" stroke="none"/>
+        <rect x="0.5" y="0.5" width="240" height="112" fill="none"/>
+      </g>
+      <text id="UCD_Process" data-name="UCD
+Process" transform="translate(150 298)" fill="#171717" font-size="26" font-family="Roboto-Regular, Roboto"><tspan x="-25.416" y="0">UCD</tspan><tspan fill="#ee4123" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-47.607" y="34">Process</tspan></tspan></text>
+    </g>
+    <g id="ui" transform="translate(101.5 94)">
+      <path id="Path_1" data-name="Path 1" d="M167.971,368h-3.2v6.4h-28.8v3.2h28.8v4.8a4.8,4.8,0,0,1-4.8,4.8h-35.2a4.817,4.817,0,0,1-4.16-2.4l-2.771,1.6a8.032,8.032,0,0,0,6.931,4h35.2a8.009,8.009,0,0,0,8-8Zm0,0" transform="translate(-93.877 -294.406)"/>
+      <path id="Path_3" data-name="Path 3" d="M75.7,43.2V40H70.815A20.8,20.8,0,0,0,51.7,20.88V16H48.5V20.88a20.794,20.794,0,0,0-3.2.5V12.8H70.9V9.6H45.3V8a4.8,4.8,0,0,1,4.8-4.8H85.3a4.8,4.8,0,0,1,3.174,1.2L90.586,2A7.989,7.989,0,0,0,85.3,0H50.1a8.009,8.009,0,0,0-8,8V22.4A20.826,20.826,0,0,0,29.381,40H24.5v3.2h4.885A20.706,20.706,0,0,0,48.5,62.322v4.873h3.2V62.322A20.706,20.706,0,0,0,70.811,43.2ZM48.5,56v3.126a17.532,17.532,0,0,1-6.4-1.847V54.4a8,8,0,0,1,16,0v2.879a17.55,17.55,0,0,1-6.4,1.851V56ZM45.3,38.4a4.8,4.8,0,1,1,4.8,4.8A4.8,4.8,0,0,1,45.3,38.4ZM61.83,54.716c-.173.159-.357.287-.533.435V54.4a11.2,11.2,0,0,0-6.046-9.932,8,8,0,1,0-10.307,0A11.2,11.2,0,0,0,38.9,54.4v.763c-.177-.145-.362-.282-.533-.435A17.608,17.608,0,0,1,32.585,43.2H35.7V40H32.581A17.616,17.616,0,0,1,48.5,24.079V27.2h3.2V24.079A17.616,17.616,0,0,1,67.615,40H64.5v3.2h3.115A17.608,17.608,0,0,1,61.83,54.724Zm0,0" transform="translate(-19.2 0)"/>
+      <path id="Path_4" data-name="Path 4" d="M309.3,54.4a1.6,1.6,0,0,0,1.6-1.6V33.6a1.6,1.6,0,0,0-1.6-1.6H274.1a1.6,1.6,0,0,0-1.6,1.6V52.8a1.6,1.6,0,0,0,1.6,1.6ZM275.7,35.2h32v16h-32Zm0,0" transform="translate(-217.604 -25.6)"/>
+      <path id="Path_5" data-name="Path 5" d="M304.5,64h6.4v3.2h-6.4Zm0,0" transform="translate(-243.205 -51.201)"/>
+      <path id="Path_7" data-name="Path 7" d="M304.5,96h25.6v3.2H304.5Zm0,0" transform="translate(-243.205 -76.801)"/>
+      <path id="Path_8" data-name="Path 8" d="M283.408,160a5.072,5.072,0,0,0-3.36,1.28l-13.956,12.3V160h-3.2v16h.462l-9.1,8.031A11.2,11.2,0,0,0,243.694,195.2v2.822a4.16,4.16,0,0,1-2.315,3.745,1.6,1.6,0,0,0,.715,3.032h11.2a11.2,11.2,0,0,0,11.167-10.559l22.76-25.793A5.083,5.083,0,0,0,283.408,160Zm-30.115,41.6h-7.317a7.38,7.38,0,0,0,.917-3.577V195.2a8.01,8.01,0,0,1,7.36-7.974l7.014,7.014A8.009,8.009,0,0,1,253.293,201.6Zm31.527-35.269-22,24.934-5.592-5.59,24.934-22a1.883,1.883,0,0,1,2.658,2.658Zm0,0" transform="translate(-191.998 -128.002)"/>
+      <path id="Path_9" data-name="Path 9" d="M2.1,344H37.3a1.6,1.6,0,0,0,1.6-1.6V329.6a1.6,1.6,0,0,0-1.6-1.6H26.1v-8H22.9v8H2.1a1.6,1.6,0,0,0-1.6,1.6v12.8A1.6,1.6,0,0,0,2.1,344Zm1.6-12.8h32v9.6H3.7Zm0,0" transform="translate(0 -256.005)"/>
+      <path id="Path_10" data-name="Path 10" d="M32.5,392h8v3.2h-8Zm0,0" transform="translate(-25.6 -313.606)"/>
+      <path id="Path_12" data-name="Path 12" d="M2.1,48h16a1.6,1.6,0,0,0,1.6-1.6V33.6A1.6,1.6,0,0,0,18.1,32H2.1A1.6,1.6,0,0,0,.5,33.6V46.4A1.6,1.6,0,0,0,2.1,48ZM3.7,35.2H16.5v9.6H3.7Zm0,0" transform="translate(0 -25.6)"/>
+      <path id="Path_13" data-name="Path 13" d="M32.5,64h6.4v3.2H32.5Zm0,0" transform="translate(-25.6 -51.201)"/>
+    </g>
+  </g>
+</svg>

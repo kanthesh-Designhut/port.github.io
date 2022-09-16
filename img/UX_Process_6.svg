@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="299" height="400" viewBox="0 0 299 400">
+  <defs>
+    <clipPath id="clip-Artboard_6">
+      <rect width="299" height="400"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_6" data-name="Artboard – 6" clip-path="url(#clip-Artboard_6)">
+    <rect width="299" height="400" fill="#fff"/>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="299" height="400" fill="#fff"/>
+    <g id="Group_1" data-name="Group 1" transform="translate(-2)">
+      <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(31 34)" fill="#fff" stroke="#ee4123" stroke-width="1">
+        <rect width="241" height="326" stroke="none"/>
+        <rect x="0.5" y="0.5" width="240" height="325" fill="none"/>
+      </g>
+      <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(31 248)" fill="#fff" stroke="#ee4123" stroke-width="1">
+        <rect width="241" height="113" stroke="none"/>
+        <rect x="0.5" y="0.5" width="240" height="112" fill="none"/>
+      </g>
+      <text id="Users_Research" data-name="Users
+Research" transform="translate(150 298)" fill="#171717" font-size="26" font-family="Roboto-Regular, Roboto"><tspan x="-33.122" y="0">Users</tspan><tspan fill="#ee4123" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-55.091" y="34">Research</tspan></tspan></text>
+    </g>
+    <g id="meeting" transform="translate(92 84.51)">
+      <g id="Group_23" data-name="Group 23" transform="translate(0 0.49)">
+        <g id="Group_22" data-name="Group 22" transform="translate(0 0)">
+          <path id="Path_61" data-name="Path 61" d="M101.511,59.592a15.069,15.069,0,0,0-20.546-7.815V46.62a21.4,21.4,0,0,0-9.75-17.883L68.9,25.23s.7-.658.822-.787A18.419,18.419,0,0,0,74.362,14.11a10.38,10.38,0,0,0-.086-3.428,6.814,6.814,0,0,0-.609-1.737,5.336,5.336,0,0,0-2.622-2.491,13.938,13.938,0,0,0-5.933-4.834A13.7,13.7,0,0,0,48.752,5.833a19.792,19.792,0,0,1-6.532,5.024L38.7,12.423l3.546,1.5c1.144.484,2.263.893,3.353,1.238a14.059,14.059,0,0,0,4.852,10.062L48.142,28.73a21.357,21.357,0,0,0-9.754,17.89v7.515a15.065,15.065,0,0,0-24.033,5.457C5.654,62.425,0,66.3,0,71.151v8.523c0,3.414,2.846,6.514,8.323,9.153a22.713,22.713,0,0,0-2.88,11.095v16.212h104.98V99.922a22.715,22.715,0,0,0-2.88-11.095c5.477-2.639,8.323-5.739,8.323-9.153V71.151C115.865,66.3,110.211,62.425,101.511,59.592Zm1.022,3.9c7.261,2.695,9.99,5.609,9.99,7.659,0,2.366-3.638,5.886-13.693,8.889a22.754,22.754,0,0,0-3.685-1.681,15.025,15.025,0,0,0,7.388-14.867Zm-14.964-9.9A11.738,11.738,0,1,1,75.831,65.33,11.751,11.751,0,0,1,87.569,53.592ZM70.752,32.512A18.03,18.03,0,0,1,77.623,46.62v7.389q-.479.422-.921.882-2.2-.213-4.432-.376V47.243H68.928V54.3c-2.033-.112-4.077-.194-6.123-.244l1.609-1.56V39.674ZM59.676,31.134,57.361,28.48a13.9,13.9,0,0,0,4.632,0Zm1.4,9.588v10.36l-1.4,1.353-1.4-1.353V40.73h.22C59.139,40.73,59.974,40.728,61.072,40.722Zm-3.436-6.843-1.32,2.308L51.109,30.3l1.467-2.225Zm9.142-5.8L68.244,30.3l-5.207,5.885-1.32-2.308ZM51.381,7.9A10.427,10.427,0,0,1,63.839,4.711a11.015,11.015,0,0,1,4.812,4.125l.378.523.6.127a1.938,1.938,0,0,1,1.107,1.073A5.92,5.92,0,0,1,71,14a10.448,10.448,0,0,0-1.864-3.309l-.964-1-1.163.76a20.429,20.429,0,0,1-6.547,2.406,27.426,27.426,0,0,1-13.634-.813A20.434,20.434,0,0,0,51.381,7.9Zm-2.348,8.158a28.534,28.534,0,0,0,18.358-2,28.355,28.355,0,0,1,1.78,5.567,10.746,10.746,0,0,1-20.138-3.566ZM41.73,46.62A18,18,0,0,1,48.6,32.507l6.342,7.167V52.5L56.491,54c-2.02.015-4.046.061-6.066.137v-6.9H47.083v7.05q-2.695.147-5.353.367V46.62Zm16.2,10.718c5.665,0,11.2.231,16.456.675a15.056,15.056,0,0,0,5.6,20.346,22.923,22.923,0,0,0-9.336,6.205c-4.121.263-8.383.4-12.724.4s-8.6-.136-12.724-.4a22.929,22.929,0,0,0-9.335-6.205,15.056,15.056,0,0,0,5.6-20.346C46.735,57.569,52.267,57.338,57.933,57.338ZM28.3,53.592A11.738,11.738,0,1,1,16.559,65.33,11.751,11.751,0,0,1,28.3,53.592Zm-14.964,9.9A15.022,15.022,0,0,0,20.72,78.36a22.773,22.773,0,0,0-3.685,1.681c-10.055-3-13.693-6.523-13.693-8.889C3.342,69.1,6.072,66.187,13.333,63.492ZM3.342,79.674V77.223a32.123,32.123,0,0,0,10.236,5.23,23.057,23.057,0,0,0-3.4,3.55C5.266,83.708,3.342,81.387,3.342,79.674Zm44.466,33.117H41.762v-12.2H38.42v12.2H18.174v-12.2H14.832v12.2H8.785V99.922a19.512,19.512,0,0,1,39.023,0Zm16.906-12.87v12.87H51.151V99.922a22.975,22.975,0,0,0-.227-3.211q3.464.118,7.008.119t7.008-.119A22.909,22.909,0,0,0,64.714,99.922Zm.968-6.583q-3.821.146-7.75.148t-7.75-.148a22.747,22.747,0,0,0-2.365-5.29c3.361.171,6.75.258,10.115.258s6.754-.087,10.115-.258A22.76,22.76,0,0,0,65.682,93.339Zm35.351,19.452v-12.2H97.691v12.2H77.446v-12.2H74.1v12.2H68.057V99.922a19.512,19.512,0,0,1,39.024,0v12.87Zm11.49-33.117h0c0,1.713-1.924,4.034-6.841,6.33a23.058,23.058,0,0,0-3.4-3.55,32.116,32.116,0,0,0,10.236-5.23v2.451Z" transform="translate(0 -0.49)"/>
+        </g>
+      </g>
+      <g id="Group_25" data-name="Group 25" transform="translate(99.464 37.489)">
+        <g id="Group_24" data-name="Group 24">
+          <rect id="Rectangle_9" data-name="Rectangle 9" width="3.342" height="3.697"/>
+        </g>
+      </g>
+      <g id="Group_27" data-name="Group 27" transform="translate(94.588 19.006)">
+        <g id="Group_26" data-name="Group 26">
+          <rect id="Rectangle_10" data-name="Rectangle 10" width="3.342" height="3.697"/>
+        </g>
+      </g>
+      <g id="Group_29" data-name="Group 29" transform="translate(105.64 7.514)">
+        <g id="Group_28" data-name="Group 28">
+          <rect id="Rectangle_11" data-name="Rectangle 11" width="3.342" height="3.697"/>
+        </g>
+      </g>
+      <g id="Group_31" data-name="Group 31" transform="translate(80.255 25.929)">
+        <g id="Group_30" data-name="Group 30">
+          <rect id="Rectangle_12" data-name="Rectangle 12" width="3.342" height="3.697"/>
+        </g>
+      </g>
+      <g id="Group_33" data-name="Group 33" transform="translate(82.643 2.235)">
+        <g id="Group_32" data-name="Group 32">
+          <rect id="Rectangle_13" data-name="Rectangle 13" width="3.342" height="3.697"/>
+        </g>
+      </g>
+      <g id="Group_35" data-name="Group 35" transform="translate(13.004 37.489)">
+        <g id="Group_34" data-name="Group 34">
+          <rect id="Rectangle_14" data-name="Rectangle 14" width="3.342" height="3.697"/>
+        </g>
+      </g>
+      <g id="Group_37" data-name="Group 37" transform="translate(17.881 19.006)">
+        <g id="Group_36" data-name="Group 36">
+          <rect id="Rectangle_15" data-name="Rectangle 15" width="3.342" height="3.697"/>
+        </g>
+      </g>
+      <g id="Group_39" data-name="Group 39" transform="translate(6.829 7.514)">
+        <g id="Group_38" data-name="Group 38">
+          <rect id="Rectangle_16" data-name="Rectangle 16" width="3.342" height="3.697"/>
+        </g>
+      </g>
+      <g id="Group_41" data-name="Group 41" transform="translate(32.215 25.929)">
+        <g id="Group_40" data-name="Group 40">
+          <rect id="Rectangle_17" data-name="Rectangle 17" width="3.342" height="3.697"/>
+        </g>
+      </g>
+      <g id="Group_43" data-name="Group 43" transform="translate(29.824 2.235)">
+        <g id="Group_42" data-name="Group 42">
+          <rect id="Rectangle_18" data-name="Rectangle 18" width="3.342" height="3.697"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

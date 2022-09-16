@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="299" height="400" viewBox="0 0 299 400">
+  <defs>
+    <clipPath id="clip-Artboard_9">
+      <rect width="299" height="400"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_9" data-name="Artboard – 9" clip-path="url(#clip-Artboard_9)">
+    <rect width="299" height="400" fill="#fff"/>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="299" height="400" fill="#fff"/>
+    <g id="Group_1" data-name="Group 1" transform="translate(-2)">
+      <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(31 34)" fill="#fff" stroke="#ee4123" stroke-width="1">
+        <rect width="241" height="326" stroke="none"/>
+        <rect x="0.5" y="0.5" width="240" height="325" fill="none"/>
+      </g>
+      <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(31 248)" fill="#fff" stroke="#ee4123" stroke-width="1">
+        <rect width="241" height="113" stroke="none"/>
+        <rect x="0.5" y="0.5" width="240" height="112" fill="none"/>
+      </g>
+      <text id="Task_Analysis" data-name="Task
+Analysis" transform="translate(150 298)" fill="#171717" font-size="26" font-family="Roboto-Regular, Roboto"><tspan x="-27.403" y="0">Task</tspan><tspan fill="#ee4123" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-49.981" y="34">Analysis</tspan></tspan></text>
+    </g>
+    <g id="workflow" transform="translate(91 84.886)">
+      <path id="Path_83" data-name="Path 83" d="M325.224,304.117A21.181,21.181,0,1,0,346.4,325.3,21.181,21.181,0,0,0,325.224,304.117Zm0,38.511a17.33,17.33,0,1,1,17.33-17.33A17.33,17.33,0,0,1,325.224,342.628Zm0,0" transform="translate(-230.862 -230.832)"/>
+      <path id="Path_84" data-name="Path 84" d="M40.479,219.077H23.149V198.693l5.681,5.68a1.925,1.925,0,0,0,2.723-2.722l-8.968-8.968a1.927,1.927,0,0,0-2.723,0L10.9,201.651a1.925,1.925,0,0,0,2.723,2.722l5.68-5.68v20.384H1.969A1.926,1.926,0,0,0,.043,221v38.511a1.926,1.926,0,0,0,1.926,1.926H40.479a1.926,1.926,0,0,0,1.926-1.926V221A1.926,1.926,0,0,0,40.479,219.077Zm-1.926,38.511H3.894v-34.66h34.66Zm0,0" transform="translate(-0.033 -145.791)"/>
+      <path id="Path_85" data-name="Path 85" d="M57.873,10.967a1.926,1.926,0,1,0-2.723,2.723l5.68,5.681H42.274a21.181,21.181,0,1,0,0,3.851H60.83L55.151,28.9a1.925,1.925,0,1,0,2.723,2.722l8.967-8.967a1.925,1.925,0,0,0,0-2.723ZM21.191,38.626A17.33,17.33,0,1,1,38.521,21.3,17.33,17.33,0,0,1,21.191,38.626Zm0,0"/>
+      <path id="Path_86" data-name="Path 86" d="M341.957,26.491,320.968,9.354a1.924,1.924,0,0,0-2.437,0L297.543,26.491a1.924,1.924,0,0,0,0,2.98l20.283,16.56V69.546l-5.68-5.681a1.926,1.926,0,0,0-2.723,2.723l8.967,8.968a1.926,1.926,0,0,0,2.723,0l8.968-8.968a1.926,1.926,0,0,0-2.723-2.723l-5.681,5.681V46.031l20.28-16.56a1.926,1.926,0,0,0,0-2.98Zm-22.206,16.14L301.81,27.981l17.942-14.649,17.942,14.649Zm0,0" transform="translate(-225.39 -6.685)"/>
+    </g>
+  </g>
+</svg>

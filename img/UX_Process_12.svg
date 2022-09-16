@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="299" height="400" viewBox="0 0 299 400">
+  <defs>
+    <clipPath id="clip-Artboard_12">
+      <rect width="299" height="400"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_12" data-name="Artboard – 12" clip-path="url(#clip-Artboard_12)">
+    <rect width="299" height="400" fill="#fff"/>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="299" height="400" fill="#fff"/>
+    <g id="Group_1" data-name="Group 1" transform="translate(-2)">
+      <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(31 34)" fill="#fff" stroke="#ee4123" stroke-width="1">
+        <rect width="241" height="326" stroke="none"/>
+        <rect x="0.5" y="0.5" width="240" height="325" fill="none"/>
+      </g>
+      <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(31 248)" fill="#fff" stroke="#ee4123" stroke-width="1">
+        <rect width="241" height="113" stroke="none"/>
+        <rect x="0.5" y="0.5" width="240" height="112" fill="none"/>
+      </g>
+      <text id="Usability_Testing" data-name="Usability
+Testing" transform="translate(150 298)" fill="#171717" font-size="26" font-family="Roboto-Regular, Roboto"><tspan x="-49.359" y="0">Usability</tspan><tspan fill="#ee4123" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-44.211" y="34">Testing</tspan></tspan></text>
+    </g>
+    <g id="testing" transform="translate(82.174 85)">
+      <g id="Group_79" data-name="Group 79" transform="translate(18.562 24.857)">
+        <g id="Group_78" data-name="Group 78">
+          <path id="Path_93" data-name="Path 93" d="M40.273,111.165a1.792,1.792,0,0,0-1.793,1.793v1.912a1.793,1.793,0,1,0,3.585,0v-1.912A1.792,1.792,0,0,0,40.273,111.165Z" transform="translate(-38.48 -111.165)"/>
+        </g>
+      </g>
+      <g id="Group_81" data-name="Group 81" transform="translate(12.826)">
+        <g id="Group_80" data-name="Group 80" transform="translate(0)">
+          <path id="Path_94" data-name="Path 94" d="M119.782,7.648H68.037V1.793a1.793,1.793,0,0,0-3.585,0V19.121H14.619a1.792,1.792,0,0,0-1.793,1.793v84.13a1.792,1.792,0,0,0,1.793,1.793H64.451v5.856a1.793,1.793,0,1,0,3.585,0V95.364h51.745a1.792,1.792,0,0,0,1.793-1.793V9.441A1.792,1.792,0,0,0,119.782,7.648Zm-55.33,52.94v6.334H53.927L58.5,54.733h5.953Zm0-9.441h-7.2a1.793,1.793,0,0,0-1.678,1.163L49.663,68.085a1.792,1.792,0,0,0,1.678,2.422H64.452v3.585h-15.8a1.793,1.793,0,0,0-1.678,1.163l-7.1,18.94-3.357-1.259L53.094,48.725a1.8,1.8,0,0,1,1.679-1.163h9.679v3.586Zm0-9.68v2.509h-9.68a5.4,5.4,0,0,0-5.035,3.49L32.528,93.356a1.792,1.792,0,0,0,1.049,2.308l6.714,2.518A1.791,1.791,0,0,0,42.6,97.132l7.3-19.455H64.452v25.574H16.411V36.09h48.04Zm0-18.643V32.5H16.411v-9.8h48.04ZM68.037,45.77V43.26H83.453a4.183,4.183,0,1,1,0,8.365H68.037Zm0,30.115v-13.5H85.365a8.007,8.007,0,1,1,0,16.013H68.037Zm0,6.094H85.365a11.592,11.592,0,0,0,0-23.183H68.037V55.211H83.453a7.768,7.768,0,1,0,0-15.535H68.037V36.09H83.453A11.366,11.366,0,0,1,94.805,47.443a11.219,11.219,0,0,1-2.48,7.069,1.792,1.792,0,0,0,.514,2.677,15.171,15.171,0,0,1-7.475,28.376H68.036V81.979Zm49.952,9.8H68.037V89.149H85.365A18.753,18.753,0,0,0,96.255,55.123,14.926,14.926,0,0,0,83.452,32.5H68.036V24.618h49.953Zm0-70.746H68.037v-9.8h49.952Z" transform="translate(-12.826 0)"/>
+        </g>
+      </g>
+      <g id="Group_83" data-name="Group 83" transform="translate(112.253 13.384)">
+        <g id="Group_82" data-name="Group 82" transform="translate(0)">
+          <path id="Path_95" data-name="Path 95" d="M459.279,59.858a1.792,1.792,0,0,0-1.793,1.793v1.912a1.793,1.793,0,1,0,3.585,0V61.651A1.792,1.792,0,0,0,459.279,59.858Z" transform="translate(-457.486 -59.858)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
